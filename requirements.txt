@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+numpy
+scikit-learn
+Update execution counts in Jupyter notebook and add model saving functionality with pickle.
